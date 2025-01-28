@@ -23,21 +23,16 @@ about:
     - icon: mailbox
       text: Email
       href: mailto:jkm14@geneseo.edu
-
 ---
 
-I am currently pursuing a bachelors degree in finance with a minor in data analytics. I’m developing my technical skills in Excel, SAS, R, and Python to enhance my analytical skillset. Pursuing a deep understanding of financial markets, financial analysis, investment strategies, and data-driven decision-making. I am passionate about leveraging financial insights to drive strategic business growth and adept at problem-solving in dynamic environments.
+I am currently pursuing a bachelors degree in finance with a minor in data analytics. I’m developing my technical skills in Excel, SAS, R, and Python to enhance my analytic skillet. Pursuing a deep understanding of financial markets, financial analysis, investment strategies, and data-driven decision-making. I am passionate about leveraging financial insights to drive strategic business growth and adept at problem-solving in dynamic environments.
 
 As a member of the track and field team, and 2023 NCAA National Champion, I value discipline, teamwork, and the pursuit of continuous improvement which I bring to both my athletic and academic endeavors. I eagerly anticipate the opportunity to contribute my skills and insights to a dynamic and ambitious company.
 
 ## Education
 
-State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Finance | Aug 2022 - May 2026 <br>
-Minor in Data Analytics
+State University of New York at Geneseo \| Geneseo, NY <br> B.S. in Finance \| Aug 2022 - May 2026 <br> Minor in Data Analytics
 
 ## Experience
 
-Resturant Employee, and Golf Course Attendant
-
-
+Restaurant Employee, and Golf Course Attendant
