@@ -1,42 +1,43 @@
 ---
-title: "YOUR NAME" 
+title: "Jacob Miller" 
 about:
   template: trestles  # jolla  trestles  solana  marquee  broadside
-  image: img/profile.png
+  image: img/profilenew.png
   image-width: 16em
   image-shape: rounded # rectangle  round  rounded
   
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/in/jacobmiller18
     - icon: instagram
       text: Instagram
-      href: https://instagram.com
+      href: https://instagram.com/jacobmiller_18/
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: https://github.com/jkm14/jkm14.github.io
     - icon: file-earmark-pdf
       text: Resumé
-      href: resume-example.pdf
+      href: resume-real.pdf
       target: _blank
     - icon: mailbox
       text: Email
-      href: mailto:YOUR_EMAIL@geneseo.edu
+      href: mailto:jkm14@geneseo.edu
 
 ---
 
+I am currently pursuing a bachelors degree in finance with a minor in data analytics. I’m developing my technical skills in Excel, SAS, R, and Python to enhance my analytical skillset. Pursuing a deep understanding of financial markets, financial analysis, investment strategies, and data-driven decision-making. I am passionate about leveraging financial insights to drive strategic business growth and adept at problem-solving in dynamic environments.
 
-Finley Malloc majors in Data Analytics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana.
+As a member of the track and field team, and 2023 NCAA National Champion, I value discipline, teamwork, and the pursuit of continuous improvement which I bring to both my athletic and academic endeavors. I eagerly anticipate the opportunity to contribute my skills and insights to a dynamic and ambitious company.
 
 ## Education
 
 State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Data Analytics | Aug 2022 - May 2026 <br>
-Minor in Economics
+B.S. in Finance | Aug 2022 - May 2026 <br>
+Minor in Data Analytics
 
 ## Experience
 
-Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024
+Resturant Employee, and Golf Course Attendant
 
 
