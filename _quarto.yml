@@ -9,25 +9,25 @@ website:
     pinned: true
     left:
       - text: Project
-        href: danl_proj_nba.ipynb
+        href: projects.html
       - text: Blog
         href: blog-listing.qmd
-      - text: "Python Data Analysis"
-        menu: 
-         - pandas_basic.ipymb
-         - seaborn_basic.ipymb
+      - text: "Python Data Analytics"
+        menu:
+          - pandas_basics.ipynb
+          - seaborn_basics.ipymb
             
   page-footer: 
-    center: "Powered with GitHub, Quarto, and Jupyter Notebook<br>© YOUR NAME, 2025"
+    center: "Powered with GitHub, Quarto, and Jupyter Notebook<br>© Jacob Miller, 2025"
 
 format:
   html:
-    theme: cosmo
+    theme: 
       light: flatly # flatly sandstone yeti united litera journal
       dark: darkly #  darkly cyborg slate solra superhero
     mainfont: system-ui; 
     highlight-style: atom-one  # atom-one espresso
     css: styles.css
-    toc: false
+    toc: true
     include-after-body: target_blank.html
 

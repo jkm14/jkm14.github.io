@@ -17,8 +17,8 @@ about:
       text: GitHub
       href: https://github.com/jkm14/jkm14.github.io
     - icon: file-earmark-pdf
-      text: Resumé
-      href: https://jkm14.github.io/resume-real.pdf
+      text: Resume
+      href: resume.pdf
       target: _blank
     - icon: mailbox
       text: Email
