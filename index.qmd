@@ -19,7 +19,6 @@ about:
     - icon: file-earmark-pdf
       text: Resume
       href: resume.pdf
-      target: _blank
     - icon: mailbox
       text: Email
       href: jkm14@geneseo.edu
