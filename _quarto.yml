@@ -9,13 +9,15 @@ website:
     pinned: true
     left:
       - text: Project
-        href: danl_proj_nba.ipynb
+        href: danl_proj_nba (1).ipynb
       - text: Blog
         href: blog-listing.qmd
       - text: "Python Data Analytics"
         menu:
-          - pandas_basics.ipynb
-          - seaborn_basics.ipymb
+          - text: Pandas Basics
+            href: pandas_basics (1).ipynb
+          - text: Seaborn Basics
+            href: seaborn_basics.ipynb
             
   page-footer: 
     center: "Powered with GitHub, Quarto, and Jupyter Notebook<br>© Jacob Miller, 2025"

@@ -13,15 +13,15 @@ about:
     - icon: instagram
       text: Instagram
       href: https://instagram.com/jacobmiller_18/
+    - icon: file-earmark-pdf
+      text: Resume
+      href: img/Resume.pdf
     - icon: github
       text: GitHub
       href: https://github.com/jkm14/jkm14.github.io
-    - icon: file-earmark-pdf
-      text: Resume
-      href: resume.pdf
     - icon: mailbox
       text: Email
-      href: jkm14@geneseo.edu
+      href: mailto:jkm14@geneseo.edu
 ---
 
 I am currently pursuing a bachelors degree in finance with a minor in data analytics. I’m developing my technical skills in Excel, SAS, R, and Python to enhance my analytic skillet. Pursuing a deep understanding of financial markets, financial analysis, investment strategies, and data-driven decision-making. I am passionate about leveraging financial insights to drive strategic business growth and adept at problem-solving in dynamic environments.
