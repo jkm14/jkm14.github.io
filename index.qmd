@@ -15,7 +15,7 @@ about:
       href: https://instagram.com/jacobmiller_18/
     - icon: file-earmark-pdf
       text: Resume
-      href: img/Resume.pdf
+      href: https://jkm14.github.io/resume-real.pdf
     - icon: github
       text: GitHub
       href: https://github.com/jkm14/jkm14.github.io
