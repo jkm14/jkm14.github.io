@@ -4,7 +4,7 @@
     "href": "blog-listing.html",
     "title": "Insightful Analytics",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nJan 25, 2025\n\n\nJacob Miller\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nStarwars\n\n\n\n\n\n\n\n\nJan 22, 2025\n\n\nYour Name\n\n\n3 min\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\nJan 22, 2025\n\n\nYOUR NAME\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nSpotify Blog\n\n\n\n\n\n\n\n\nMar 3, 2025\n\n\nJacob Miller\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nPython Basics\n\n\n\n\n\n\n\n\nFeb 14, 2025\n\n\nJacob Miller\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nPython Basics\n\n\n\n\n\n\n\n\nFeb 10, 2025\n\n\nJacob Miller\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nStarwars\n\n\n\n\n\n\n\n\nJan 22, 2025\n\n\nYour Name\n\n\n3 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "danl_proj_nba (1).html#salary-distribution-among-teams",
@@ -42,18 +42,53 @@
     "text": "import seaborn as sns\nimport matplotlib.pyplot as plt\nimport pandas as pd\n\n# Sample data\ndata = {\n    'Category': ['A', 'B', 'C', 'D'],\n    'Values': [23, 45, 56, 78]\n}\ndf = pd.DataFrame(data)\n\n# Create a barplot\nsns.set(style=\"whitegrid\")  # Optional: Set a clean grid style\nplt.figure(figsize=(8, 6))  # Set the figure size\nsns.barplot(data=df, x='Category', y='Values', palette='viridis')\n\n# Customize the plot\nplt.title(\"Bar Plot Example\", fontsize=16)\nplt.xlabel(\"Category\", fontsize=12)\nplt.ylabel(\"Values\", fontsize=12)\n\n# Show the plot\nplt.show()\n\nFutureWarning: \n\nPassing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.\n\n  sns.barplot(data=df, x='Category', y='Values', palette='viridis')"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/Spotify/index.html",
+    "href": "posts/Spotify/index.html",
+    "title": "Spotify Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n Miller placed second in the 400-meters at the Nazareth Conference Challenge Cup on Saturday with an impressive time of 48.89 seconds. He was part of the 4 x 400-meter relay team that placed fourth in a time of 3:20.48 (split of 48.23), which is currently seventh best in Division III this season. His time of 48.89 in the 400-meters is currently eighth best in Division III to date this season."
+    "text": "This is the second post in my Quarto blog. Welcome!"
   },
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "Python Basics",
     "section": "",
-    "text": "This is a post with executable code with no space in the folder name.\n\n1 + 1\n\n[1] 2"
+    "text": "```"
+  },
+  {
+    "objectID": "posts/post-with-code/py-basics/python_basics (2).html",
+    "href": "posts/post-with-code/py-basics/python_basics (2).html",
+    "title": "Python Basics",
+    "section": "",
+    "text": "# Here we assign the integer value 132 to the variable x.\nx = 132\n\n# Now we can use the variable x in the next line.\ny = x + 93\n\n# This can be useful for simple equations"
+  },
+  {
+    "objectID": "posts/post-with-code/py-basics/python_basics (2).html#assignment",
+    "href": "posts/post-with-code/py-basics/python_basics (2).html#assignment",
+    "title": "Python Basics",
+    "section": "",
+    "text": "# Here we assign the integer value 132 to the variable x.\nx = 132\n\n# Now we can use the variable x in the next line.\ny = x + 93\n\n# This can be useful for simple equations"
+  },
+  {
+    "objectID": "posts/post-with-code/py-basics/python_basics (2).html#indicates-that-the-rest-of-the-line-is-to-be-ignored.",
+    "href": "posts/post-with-code/py-basics/python_basics (2).html#indicates-that-the-rest-of-the-line-is-to-be-ignored.",
+    "title": "Python Basics",
+    "section": "indicates that the rest of the line is to be ignored.",
+    "text": "indicates that the rest of the line is to be ignored.\n\nIt is good practice to write comments before the line that you want the comment to apply to\n\n\n# Like this\n\n# You can describe your code in the next lines...\n\n# This should be used often to help keep code organized and understandable to you"
+  },
+  {
+    "objectID": "posts/post-with-code/py-basics/python_basics (2).html#strings",
+    "href": "posts/post-with-code/py-basics/python_basics (2).html#strings",
+    "title": "Python Basics",
+    "section": "Strings",
+    "text": "Strings\n\nstring = \"sprinter\"\nprint( string[-3:] )\n\nstring = \"train\"\nprint(\"String has length of:\")\nprint( len(string) )\n\nter\nString has length of:\n5"
+  },
+  {
+    "objectID": "posts/post-with-code/py-basics/python_basics (2).html#int-float-string-are-functions",
+    "href": "posts/post-with-code/py-basics/python_basics (2).html#int-float-string-are-functions",
+    "title": "Python Basics",
+    "section": "Int, float, string are functions",
+    "text": "Int, float, string are functions\n\nprint(\"apple\", \"grape\", \"lime\")\nprint(\"apple\", \"grape\", \"lime\", sep = \"!\")\nprint(\"apple\", \"grape\", \"lime\", sep=\" \")\n\napple grape lime\napple!grape!lime\napple grape lime"
   },
   {
     "objectID": "posts/starwars/starwars_df.html",

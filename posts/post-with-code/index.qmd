@@ -1,15 +1,9 @@
 ---
-title: "Post With Code"
-author: "YOUR NAME"
-date: 2025-01-22
+title: "Python Basics"
+author: "Jacob Miller"
+date: 2025-02-10
 categories: [news, code, analysis]
-image: "image.jpg"
+image: "python_blog.webp"
 ---
 
-This is a post with executable code with no space in the folder name.
-
-```{r}
-1 + 1
 ```
-
-![](image.jpg)
