@@ -1,9 +1,10 @@
 ---
-title: "Python Basics"
-author: "Jacob Miller"
-date: 2025-02-10
-categories: [news, code, analysis]
-image: "python_blog.webp"
+title: Spotify Blog
+author: Jacob Miller
+date: 2025-03-03
+categories: [python, data organization, data manipulation] # tags for a blog post (e.g., python)
+image: "Spotify_New.png"
+
+toc: true
 ---
 
-```
