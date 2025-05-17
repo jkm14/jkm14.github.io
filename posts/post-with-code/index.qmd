@@ -1,9 +1,9 @@
 ---
 title: Blog
 author: Jacob Miller
-date: 2025-03-03
+date: 2025-03-03 
 categories: [python, data organization, data manipulation] # tags for a blog post (e.g., python)
-image: Blog
+image: Blog Trial
 toc: true
 ---
 

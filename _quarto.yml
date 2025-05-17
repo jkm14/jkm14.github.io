@@ -8,8 +8,8 @@ website:
     # background: "#1c4982"
     pinned: true
     left:
-      - text: Project
-        href: danl_proj_nba (1).ipynb
+      - text: ESG Project
+        href: danl_210_Miller_Jacob_stock_ESG (4).ipynb
       - text: Blog
         href: blog-listing.qmd
       - text: "Python Data Analytics"
