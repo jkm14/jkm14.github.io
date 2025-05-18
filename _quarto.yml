@@ -9,7 +9,7 @@ website:
     pinned: true
     left:
       - text: ESG Project
-        href: danl_210_Miller_Jacob_stock_ESG (4).ipynb
+        href: danl_210_Miller_Jacob_stock_ESG (5).ipynb
       - text: Blog
         href: blog-listing.qmd
       - text: "Python Data Analytics"
